@@ -15,6 +15,13 @@ Married Couples: 0-42,800: 20% Tax
 
 • Add additional functions to the budgeting system, allow the user to input their expenses such as insurance, car tax, car fuel, food, internet, electricity, water etc. Upon entering these details the program will display how much of their salary is left on the same weekly/monthly format.
 
+• Allow the user to set the tax bracket amounts to allow this program to be used in different countries.
+
+• Display all information in a neatly formatted graph or chart, use your own design ideas to create the graph or chart keeping in mind how easy it is to understand.
+
+• Save the graph or chart to a file
+
+
 # Deadline
 
 The deadline for this program is 3.00pm, you must have a demoable program at this time.
