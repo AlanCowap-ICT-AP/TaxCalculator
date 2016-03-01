@@ -7,9 +7,12 @@ Design a program to allow a user to input their annual salary before taxes. The 
 Your GUI design should be clean and simple to use with everything labelled clearly.
 
 # Additional Features:
+
 • Allow the user to state their marital status using an appropriate method which could then alter their tax bracket:
 Married Couples: 0-42,800: 20% Tax
+
 • Add a budgeting system to your program under an advanced info, or further info section. This will display a breakdown of the users annual income to a weekly/monthly figure depending on which the user wishes to view.
+
 • Add additional functions to the budgeting system, allow the user to input their expenses such as insurance, car tax, car fuel, food, internet, electricity, water etc. Upon entering these details the program will display how much of their salary is left on the same weekly/monthly format.
 
 # Deadline
